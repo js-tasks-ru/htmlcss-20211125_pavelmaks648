@@ -1,0 +1,44 @@
+    body {
+        margin: 0px 0px 0px 0px;
+        background-color: crimson;
+    }
+    
+    header {
+        background-color: aquamarine;
+        background-size: cover;
+        height: 100px;
+    }
+    
+    h1 {
+        font-size: 3em;
+        text-align: center;
+    }
+    
+    nav {
+        font-size: 2em;
+        background-color: chartreuse;
+        text-align: center;
+        margin: auto;
+    }
+    
+    main {
+        background-color: burlywood;
+    }
+    
+    .textBox {
+        background-color: blue;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 1.5em;
+        color: white;
+        line-height: 1.5;
+    }
+    
+    footer {
+        background-color: black;
+        color: blanchedalmond;
+        font-size: 2em;
+        text-align: center;
+        height: 100px;
+        vertical-align: middle;
+    }
