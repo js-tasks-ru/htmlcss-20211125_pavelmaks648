@@ -3,17 +3,15 @@
     }
     
     .button_primary:hover {
-        background-color: #2342C0;
-        transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+        background-color: var(--blue-2);
     }
     
     .button_primary:active {
-        background-color: #2342C0;
-        transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+        background-color: var(--blue-2);
     }
     
     .button_primary:disabled {
-        background: #4263EB;
+        background: var(--blue-1);
         opacity: 0.5;
-        cursor: not-allowed;
+        pointer-events: none;
     }
