@@ -1,1 +1,18 @@
 /* Стилизация кнопки */
+
+@import './_primary/button_primary.css';
+@import './_secondary/button_secondary.css';
+@import './_alternate/button_alternate.css';
+.button {
+    height: 48px;
+    width: 189px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}

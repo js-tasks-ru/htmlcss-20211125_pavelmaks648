@@ -1,0 +1,27 @@
+.button_alternate {
+    background-color: #E5E5E5;
+    border: 1px solid #ACB5BD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.button_alternate:hover {
+    border: 1px solid #212429;
+    box-sizing: border-box;
+    border-radius: 8px;
+    transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+}
+
+.button_alternate:active {
+    border: 1px solid #212429;
+    box-sizing: border-box;
+    border-radius: 8px;
+    transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+}
+
+.button_alternate:disabled {
+    border: 1px solid #ACB5BD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    cursor: not-allowed;
+}
