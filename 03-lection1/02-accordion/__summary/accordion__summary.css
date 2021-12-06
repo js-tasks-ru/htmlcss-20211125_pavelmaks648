@@ -1,0 +1,18 @@
+.accordion__summary {
+    display: block;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    padding-top: 34px;
+    padding-left: 32px;
+}
+
+.accordion__summary::-webkit-details-marker {
+    display: none;
+}
+
+.accordion__summary :last-child {
+    margin-bottom: 0px;
+}
