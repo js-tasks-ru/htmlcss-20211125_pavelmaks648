@@ -1,0 +1,8 @@
+@import '../footer/__title/footer__title.css';
+@import '../footer/__content/footer__content.css';
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
