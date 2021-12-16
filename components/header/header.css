@@ -1,0 +1,5 @@
+@import '../header/__title/header__title.css';
+.header {
+    display: block;
+    max-width: 1440px;
+}

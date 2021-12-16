@@ -17,3 +17,8 @@
     border-radius: 8px;
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
 }
+
+.button:disabled {
+    border: 1px solid var(--grey-3);
+    pointer-events: none;
+}
