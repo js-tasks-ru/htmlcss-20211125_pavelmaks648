@@ -2,12 +2,12 @@
 
 @import './__summary/accordion__summary.css';
 @import './__content/accordion__content.css';
+@import './__card/accordion__card.css';
 .accordion {
     position: relative;
     max-width: 730px;
-    top: 75px;
     border: 1px solid var(--grey-3);
     box-sizing: border-box;
     border-radius: 8px;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
 }
