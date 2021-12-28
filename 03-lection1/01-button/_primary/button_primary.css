@@ -9,9 +9,3 @@
     .button_primary:active {
         background-color: var(--blue-2);
     }
-    
-    .button_primary:disabled {
-        background: var(--blue-1);
-        opacity: 0.5;
-        pointer-events: none;
-    }

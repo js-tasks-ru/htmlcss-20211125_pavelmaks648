@@ -21,4 +21,5 @@
 .button:disabled {
     border: 1px solid var(--grey-3);
     pointer-events: none;
+    opacity: 0.5;
 }

@@ -3,17 +3,7 @@
     border: 1px solid var(--grey-3);
 }
 
-.button_alternate:hover {
-    border: 1px solid var(--black);
-}
-
 .button_alternate:hover,
 .button_alternate:active {
     border-color: var(--black);
 }
-
-
-/* .button_alternate:disabled {
-    border: 1px solid var(--grey-3);
-    pointer-events: none;
-} */

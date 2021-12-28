@@ -9,9 +9,3 @@
 .button_secondary:active {
     background-color: var(--purple-1);
 }
-
-.button_secondary:disabled {
-    background: var(--purple);
-    opacity: 0.5;
-    pointer-events: none;
-}
