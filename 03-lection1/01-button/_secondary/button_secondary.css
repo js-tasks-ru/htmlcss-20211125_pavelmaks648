@@ -1,0 +1,11 @@
+.button_secondary {
+    background-color: var(--secondary);
+}
+
+.button_secondary:hover {
+    background-color: var(--purple-1);
+}
+
+.button_secondary:active {
+    background-color: var(--purple-1);
+}

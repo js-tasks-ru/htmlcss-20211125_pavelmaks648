@@ -1,0 +1,9 @@
+.button_alternate {
+    background-color: var(--grey-5);
+    border: 1px solid var(--grey-3);
+}
+
+.button_alternate:hover,
+.button_alternate:active {
+    border-color: var(--black);
+}
