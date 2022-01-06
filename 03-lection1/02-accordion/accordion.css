@@ -1,1 +1,10 @@
 /* Стилизация аккордеона */
+
+@import './__item/accordion__item.css';
+@import './__summary/accordion__summary.css';
+@import './__content/accordion__content.css';
+.accordion {
+    box-sizing: border-box;
+    position: relative;
+    max-width: 730px;
+}
